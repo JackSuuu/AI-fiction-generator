@@ -1,0 +1,12 @@
+# 请勿提交此文件到版本控制系统
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.DS_Store
+*.docx
+.venv/
+venv/
